@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://www.rajwadkar.net/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
@@ -6,7 +6,7 @@ contentdir = "content"
 languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
-author = "Alexis Tacnet"
+author = "Mayuresh Rajwadkar"
 title = "Cocoa Enhanced"
 disqusshortname = ""
 pluralizelisttitles = false
