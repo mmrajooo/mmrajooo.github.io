@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright ©2017 Mayuresh Rajwadkar</copyright>
-    <lastBuildDate>Mon, 28 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.rajwadkar.net/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Site under construction</title>
+      <link>https://www.rajwadkar.net/blog/site-under-construction/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rajwadkar.net/blog/site-under-construction/</guid>
+      <description> UNDER CONSTRUCTION This site is under construction
+Image Code This is some code, this theme includes language highlight, optionnal as well.
+ SITE UNDER CONSTRUCTION  </description>
+    </item>
     
     <item>
       <title>Example article</title>
