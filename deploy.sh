@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash -xv
 
 # This script allows you to easily and quickly generate and deploy your website
 # using Hugo to your personal GitHub Pages repository. This script requires a
