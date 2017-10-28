@@ -13,18 +13,8 @@
   </url>
   
   <url>
-    <loc>http://www.rajwadkar.net/projects/small-project/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.rajwadkar.net/blog/example-article/</loc>
     <lastmod>2015-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.rajwadkar.net/projects/projects/</loc>
-    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
   </url>
   
   <url>
@@ -100,18 +90,6 @@
   <url>
     <loc>http://www.rajwadkar.net/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.rajwadkar.net/projects/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.rajwadkar.net/tags/projects/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
