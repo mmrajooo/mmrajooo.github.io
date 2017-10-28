@@ -1,6 +1,6 @@
 +++
 date = "2017-10-27"
-title = "About"
+title = "Resume"
 +++
 
 This site is under construction, 
