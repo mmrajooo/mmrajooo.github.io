@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mayuresh Rajwadkar</title>
-    <link>https://www.rajwadkar.net/categories/</link>
+    <link>http://www.rajwadkar.net/categories/</link>
     <description>Recent content in Categories on Mayuresh Rajwadkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright ©2017 Mayuresh Rajwadkar</copyright>
     
-	<atom:link href="https://www.rajwadkar.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.rajwadkar.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://www.rajwadkar.net/categories/development/</link>
+      <link>http://www.rajwadkar.net/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.rajwadkar.net/categories/development/</guid>
+      <guid>http://www.rajwadkar.net/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://www.rajwadkar.net/categories/golang/</link>
+      <link>http://www.rajwadkar.net/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.rajwadkar.net/categories/golang/</guid>
+      <guid>http://www.rajwadkar.net/categories/golang/</guid>
       <description></description>
     </item>
     

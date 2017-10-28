@@ -3,132 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.rajwadkar.net/about/</loc>
+    <loc>http://www.rajwadkar.net/about/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/blog/site-under-construction/</loc>
+    <loc>http://www.rajwadkar.net/blog/site-under-construction/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/projects/small-project/</loc>
+    <loc>http://www.rajwadkar.net/projects/small-project/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/blog/example-article/</loc>
+    <loc>http://www.rajwadkar.net/blog/example-article/</loc>
     <lastmod>2015-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/projects/projects/</loc>
+    <loc>http://www.rajwadkar.net/projects/projects/</loc>
     <lastmod>2015-08-19T20:29:37-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/blog/creating-a-new-theme/</loc>
+    <loc>http://www.rajwadkar.net/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/blog/hugo-template-primer/</loc>
+    <loc>http://www.rajwadkar.net/blog/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/blog/getting-started-with-hugo/</loc>
+    <loc>http://www.rajwadkar.net/blog/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/blog/</loc>
+    <loc>http://www.rajwadkar.net/blog/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/categories/</loc>
+    <loc>http://www.rajwadkar.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/tags/development/</loc>
+    <loc>http://www.rajwadkar.net/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/categories/development/</loc>
+    <loc>http://www.rajwadkar.net/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/tags/go/</loc>
+    <loc>http://www.rajwadkar.net/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/tags/golang/</loc>
+    <loc>http://www.rajwadkar.net/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/categories/golang/</loc>
+    <loc>http://www.rajwadkar.net/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/home/</loc>
+    <loc>http://www.rajwadkar.net/home/</loc>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/tags/hugo/</loc>
+    <loc>http://www.rajwadkar.net/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/license/</loc>
+    <loc>http://www.rajwadkar.net/license/</loc>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/</loc>
+    <loc>http://www.rajwadkar.net/</loc>
     <lastmod>2017-10-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/projects/</loc>
+    <loc>http://www.rajwadkar.net/projects/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/tags/projects/</loc>
+    <loc>http://www.rajwadkar.net/tags/projects/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/tags/</loc>
+    <loc>http://www.rajwadkar.net/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/tags/templates/</loc>
+    <loc>http://www.rajwadkar.net/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.rajwadkar.net/tags/themes/</loc>
+    <loc>http://www.rajwadkar.net/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
