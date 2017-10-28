@@ -1,4 +1,4 @@
-baseurl = "https://www.rajwadkar.net/"
+baseurl = "http://www.rajwadkar.net/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
