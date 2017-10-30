@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "violet"
+  style = "mmrajoo"
   description = "Profile"
   copyright = "&copy;2017 Mayuresh Rajwadkar"
   attribution = " " 
