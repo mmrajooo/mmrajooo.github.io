@@ -360,7 +360,7 @@ SIDEBAR + RIGHT COLUMN
   font-size: 14px;
 }
 .sidebar-menu {
-  list-style-type: circle;
+  list-style-type: none;
   padding-left: 20px;
   margin-bottom: 40px;
 }
