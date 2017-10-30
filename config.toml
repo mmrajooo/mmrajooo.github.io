@@ -1,5 +1,5 @@
 baseurl = "http://www.rajwadkar.net/"
-title = "Creative portfolio Theme"
+title = "Mayuresh Rajwadkar"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,8 +11,8 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "violet"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  description = "Profile"
+  copyright = "&copy;2017 Mayuresh Rajwadkar"
   sidebarAbout = [
     "I am a creative illustrator and graphic designer with more than 10 years of experience.",
     "Originally from Toronto, currently based in London."
