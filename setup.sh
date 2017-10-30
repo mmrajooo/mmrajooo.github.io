@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#
 
 # This script does the required work to set up your personal GitHub Pages
 # repository for deployment using Hugo. Run this script only once -- when the
