@@ -1,6 +1,6 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+date = "2017-10-30T21:05:33+05:30"
+title = "Resume"
 +++
 
 An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
