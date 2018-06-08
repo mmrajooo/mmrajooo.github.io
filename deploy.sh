@@ -1,4 +1,4 @@
-#!/bin/bash -xv
+#!/usr/bin/env bash
 
 # This script allows you to easily and quickly generate and deploy your website
 # using Hugo to your personal GitHub Pages repository. This script requires a
@@ -27,7 +27,10 @@ git rm -rf *
 popd
 
 msg "Building the website"
-hugo -v
+hugo
+
+msg "Copying CNAME"
+cp CNAME public/
 
 msg "Pushing the updated \`public\` folder to the \`master\` branch"
 pushd public
