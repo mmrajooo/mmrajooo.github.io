@@ -1,6 +1,0 @@
-[submodule "themes/cocoa-eh"]
-	path = themes/cocoa-eh
-	url = git@github.com:mmrajooo/cocoa-eh-hugo-theme.git
-[submodule "themes/hugo-creative-portfolio-theme"]
-	path = themes/hugo-creative-portfolio-theme
-	url = git@github.com:mmrajooo/hugo-creative-portfolio-theme.git
