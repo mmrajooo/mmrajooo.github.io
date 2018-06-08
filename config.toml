@@ -40,7 +40,7 @@ googleAnalytics = ""
   url = "about/resume.pdf"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Contact Me"
   url = "contact/"
 
   [params.social]
