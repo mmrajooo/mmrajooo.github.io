@@ -36,8 +36,8 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  name = "Resume"
+  url = "about/resume.pdf"
 
   [[params.navlinks]]
   name = "Get in touch"
