@@ -1,5 +1,5 @@
 baseURL = "https://www.rajwadkar.net/"
-title = "Mayuresh Rajwadkar" 
+title = "Rambles of a Technologist in Business" 
 theme = "hugo-nederburg-theme-static"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -10,12 +10,12 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
 [params]
-  slogan = "When There is a Will There is a Way"
-  description = "Blog from Mayuresh" # meta description
+  slogan = "WHEN there is a WILL, there is a WAY"
+  description = "Rambles of a Technologist in Business" # meta description
   author = "Mayuresh Rajwadkar"
   authorLink = "https://www.rajwadkar.net/"
   bio = [
-  "I am a semiconductor and IT professional working to finesse my life skills"
+  "I am a semiconductor and IT professional working to finesse my life and business skills"
   ]
   copyright = [
     "&copy;2018 Mayuresh Rajwadkar"

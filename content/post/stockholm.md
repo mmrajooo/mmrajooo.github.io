@@ -8,6 +8,10 @@ categories = [ "travel" ]
 weight = 0
 +++
 
+One of the goals of the Sweden Elective from Babson was about applying the techniques of Design thinking 
+with a  "Jobs To Be Done" approach to the design challenge of the course.
+
+<!--more-->
 Ever since I started on my MBA Journey with the HBX CORe, followed by HBX
 Disruptive Strategy  with no other than Prof Christiansen himself, I have
 cycled through many iterations of the "Jobs to be done" approach, the "IDEO
