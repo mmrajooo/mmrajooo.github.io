@@ -15,11 +15,12 @@ paginate = 5 #frontpage pagination
   author = "Mayuresh Rajwadkar"
   authorLink = "https://www.rajwadkar.net/"
   bio = [
-  "I am a semiconductor and IT professional newly minted with a MBA in entreprenuership from Babson College. I have worked for about twenty years primararily in the Semiconductor Industry as a design and development Engineer. I also have experience with Linux and the open source software industry and am very apt with Linux infrastructures and deployment.<p> This website is under construction"
+  "I am a semiconductor and IT professional working to finesse my life skills"
   ]
   copyright = [
     "&copy;2018 Mayuresh Rajwadkar"
   ]
+#  "I am a semiconductor and IT professional newly minted with a MBA in entreprenuership from Babson College. I have worked for about twenty years primararily in the Semiconductor Industry as a design and development Engineer. I also have experience with Linux and the open source software industry and am very apt with Linux infrastructures and deployment.<p> This website is under construction"
 
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -54,7 +55,7 @@ paginate = 5 #frontpage pagination
   [params.social]
   facebook      = "https://www.facebook.com/mayuresh.rajwadkar"
 #  googleplus    = "full profile url in googleplus"
-#  email         = "email@example.com"
+   email         = "m.m.rajwadkar+www@ieee.org"
   twitter       = "https://www.twitter.com/MayurRajwadkar"
   linkedin      = "https://www.linkedin.com/in/ememare"
 #  stackoverflow = "full profile url in stackoverflow"
