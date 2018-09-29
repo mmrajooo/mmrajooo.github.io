@@ -40,6 +40,15 @@
     </li>
     {{end}}
 
+    {{ with .Site.Params.social.amazon }}
+    <li>
+      <a href="{{ . }}" data-animate-hover="pulse" class="amazon" target="_blank">
+        <i class="fa fa-amazon-square" title="amazon"></i>
+        <span class="screen-reader-text">amazon</span>
+      </a>
+    </li>
+    {{end}}
+
     {{ with .Site.Params.social.twitter }}
     <li>
       <a href="{{ . }}" data-animate-hover="pulse" class="twitter" target="_blank">

@@ -109,7 +109,14 @@
   {{end}}
 
 
-  {{ with .Site.Params.social.twitter }}
+  {{ with .Site.Params.social.amazon }}
+  <a class="amazon" target="_blank"
+  href="{{ . }}">
+  <i class="fa fa-amazon-square"
+  title="amazon icon"></i>
+</a>  
+
+ {{ with .Site.Params.social.twitter }}
   <a class="twitter" target="_blank"
   href="{{ . }}">
   <i class="fa fa-twitter-square"
