@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.rajwadkar.net/post/cpanca/</loc>
+    <lastmod>2018-10-04T00:00:00+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.rajwadkar.net/contact/garagesale/</loc>
     <lastmod>2018-08-22T00:00:00+05:00</lastmod>
   </url>
@@ -34,13 +39,13 @@
   
   <url>
     <loc>https://www.rajwadkar.net/post/</loc>
-    <lastmod>2018-06-30T00:00:00+05:00</lastmod>
+    <lastmod>2018-10-04T00:00:00+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.rajwadkar.net/</loc>
-    <lastmod>2018-08-22T00:00:00+05:00</lastmod>
+    <lastmod>2018-10-04T00:00:00+05:00</lastmod>
     <priority>0</priority>
   </url>
   
