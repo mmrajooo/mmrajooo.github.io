@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "2018-10-04T00:00:00+05:00"
 title = "ICFAI CA and US CPA"
-categories = [  ]
+categories = [ "India"  ]
 weight = 0
 +++
 
