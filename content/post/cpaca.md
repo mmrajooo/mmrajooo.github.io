@@ -17,3 +17,18 @@ by a CA who is apt with taxation of Overseas Indian Citizens, and also understan
 the US IRS tax laws
 I have not yet found such a person yet.
 
+Myself and some of my friends have some Indian taxation work which can be done 
+by a CA who is apt with taxation of Overseas Indian Citizens, and also understands 
+the US IRS tax laws
+Myself and some of my friends have some Indian taxation work which can be done 
+by a CA who is apt with taxation of Overseas Indian Citizens, and also understands 
+the US IRS tax laws
+Myself and some of my friends have some Indian taxation work which can be done 
+by a CA who is apt with taxation of Overseas Indian Citizens, and also understands 
+the US IRS tax laws
+Myself and some of my friends have some Indian taxation work which can be done 
+by a CA who is apt with taxation of Overseas Indian Citizens, and also understands 
+the US IRS tax laws
+Myself and some of my friends have some Indian taxation work which can be done 
+by a CA who is apt with taxation of Overseas Indian Citizens, and also understands 
+the US IRS tax laws
