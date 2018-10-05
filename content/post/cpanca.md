@@ -1,5 +1,5 @@
 +++
-image = "img/ca-cpa.jpg"
+image = "img/ca-cpa.png"
 showonlyimage = true
 draft = false
 date = "2018-10-04T00:00:00+05:00"
