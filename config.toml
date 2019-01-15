@@ -1,7 +1,7 @@
 baseURL = "https://www.rajwadkar.net/"
 title = "Rambles of a Technologist in Business" 
 theme = "hugo-nederburg-theme-static"
-#languageCode = "en-us"
+languageCode = "en-gb"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
