@@ -1,7 +1,12 @@
 +++
+image = "img/Thacher_Montessori_School.jpg"
+showonlyimage = true
+draft = false
 date = "2019-01-06T13:00:25+05:30"
 title = "Books"
+weight = 0
 +++
+
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
