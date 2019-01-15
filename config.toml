@@ -52,6 +52,11 @@ paginate = 5 #frontpage pagination
   url = "contact/"
   weight = 3
 
+  [[menu.main]]
+  name = "Books"
+  url = "books/"
+  weight = 4
+
   [params.social]
   facebook       = "https://www.facebook.com/mayuresh.rajwadkar"
 #  googleplus    = "full profile url in googleplus"
