@@ -54,7 +54,7 @@ paginate = 5 #frontpage pagination
 
   [[menu.main]]
   name = "Books"
-  url = "books/"
+  url = "about/books.md"
   weight = 4
 
   [params.social]
