@@ -27,7 +27,7 @@ git rm -rf *
 popd
 
 msg "Building the website"
-hugo -v
+hugo -v --debug=true
 
 #[ -r CNAME ] && cp -rfp CNAME public
 msg "Pushing the updated \`public\` folder to the \`master\` branch"
