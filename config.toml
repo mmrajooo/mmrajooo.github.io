@@ -64,3 +64,11 @@ paginate = 5 #frontpage pagination
 #  github        = "full profile url in github"
 #  youtube       = "full profile url in youtube" 
    rss           = true
+
+ [params.writers]
+    [params.writers."Mayuresh Rajwadkar"]
+    link = "https://ww.rajwadkar.net/"
+    email = "m.m.rajwadkar+www@ieee.org"
+    bio = [
+      "Mayuresh is a blach black "
+    ]
