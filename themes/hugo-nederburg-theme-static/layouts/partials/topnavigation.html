@@ -25,7 +25,7 @@
     {{ with .Site.Params.social.facebook }}
     <li>
       <a href="{{ . }}" data-animate-hover="pulse" class="facebook" target="_blank">
-        <i class="fa fa-facebook" title="facebook"></i>
+        <i class="fa fa-facebook-square" title="facebook"></i>
         <span class="screen-reader-text">facebook</span>
       </a>
     </li>
@@ -40,19 +40,10 @@
     </li>
     {{end}}
 
-    {{ with .Site.Params.social.amazon }}
-    <li>
-      <a href="{{ . }}" data-animate-hover="pulse" class="amazon" target="_blank">
-        <i class="fa fa-amazon" title="amazon"></i>
-        <span class="screen-reader-text">amazon</span>
-      </a>
-    </li>
-    {{end}}
-
     {{ with .Site.Params.social.twitter }}
     <li>
       <a href="{{ . }}" data-animate-hover="pulse" class="twitter" target="_blank">
-        <i class="fa fa-twitter" title="twitter"></i>
+        <i class="fa fa-twitter-square" title="twitter"></i>
         <span class="screen-reader-text">twitter</span>
       </a>
     </li>
