@@ -120,6 +120,13 @@
   </a>
   {{end}}
 
+    {{ with $writer.amazon }}
+    <a class="amazon" target="_blank"
+    href="{{ . }}">
+    <i class="fa fa-amazon"
+    title="amazon icon"></i>
+  </a>
+  {{end}}
 
   {{ with $writer.twitter }}
   <a class="twitter" target="_blank"
