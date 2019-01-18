@@ -29,9 +29,3 @@ popd
 msg "Building the website"
 hugo -v server
 
-#[ -r CNAME ] && cp -rfp CNAME public
-msg "Pushing the updated \`public\` folder to the \`master\` branch"
-pushd public
-git add *
-git commit -m "$MESSAGE"
-popd
