@@ -1,7 +1,7 @@
 +++
 image = "img/mlrco.png"
 showonlyimage = true
-draft = true
+draft = false
 date = "2019-01-01T00:00:00+05:00"
 title = "The Academic Career"
 categories = [ "blog" ]
@@ -14,6 +14,8 @@ of my teachers in Middle and High school. The common theme in all my academics h
 that I almost all the time persued the subjects of my personal interest at those times.
 The second aspect as been that I have been directed well in my early academic career and was 
 able to use that technique in my later career too.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
 
 <!--more-->
 My initial schooling was done in the schools of the [Indian Education
