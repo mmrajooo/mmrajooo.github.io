@@ -24,7 +24,7 @@ Sule Guruji English Medium School](http://www.iesvns.com/) alternatively also
 reffered to as King George OR Raja Shivaji Vidyasankul. I have always been in
 English Medium or English Immersion School as they call it here state side. 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1fUSlDtcKOgXqMG40brW6iVVH0GE&hl=en" width="640" height="480"></iframe>
 
 I later joined the [Elphinstone College](https://www.elphinstone.ac.in/) to complete my 
 high-school and the initial two years of under graduate school, followed by graduation in 
