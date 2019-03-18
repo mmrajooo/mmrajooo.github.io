@@ -8,6 +8,21 @@
   </url>
   
   <url>
+    <loc>https://www.rajwadkar.net/post/career/</loc>
+    <lastmod>2019-01-01T00:00:00+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rajwadkar.net/post/firstbusiness/</loc>
+    <lastmod>2019-01-01T00:00:00+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rajwadkar.net/post/thelemma/</loc>
+    <lastmod>2019-01-01T00:00:00+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.rajwadkar.net/post/cpaca/</loc>
     <lastmod>2018-10-04T00:00:00+05:00</lastmod>
   </url>
@@ -45,7 +60,7 @@
   
   <url>
     <loc>https://www.rajwadkar.net/post/</loc>
-    <lastmod>2018-10-04T00:00:00+05:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -57,6 +72,12 @@
   
   <url>
     <loc>https://www.rajwadkar.net/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.rajwadkar.net/categories/blog/</loc>
+    <lastmod>2019-01-01T00:00:00+05:00</lastmod>
     <priority>0</priority>
   </url>
   
