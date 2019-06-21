@@ -13,6 +13,7 @@ as I find significant words. I would have called this a glossary but well
 it is about words and I used to love the word "Lemma" growing up with Mathematics.
 
 huh
+huh
 
 <!--more-->
 ### [lemma](https://en.oxforddictionaries.com/definition/lemma)  
