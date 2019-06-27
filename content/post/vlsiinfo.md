@@ -2,8 +2,8 @@
 image = "https://upload.wikimedia.org/wikipedia/commons/4/49/Vlsiopamp2.gif"
 showonlyimage = true
 draft = false
-date = "2019-01-01T00:00:00+05:00"
-title = "The Academic Career"
+date = "2018-09-01T00:00:00+05:00"
+title = "VLSI Information"
 categories = [ "blog" ]
 weight = 0
 +++
