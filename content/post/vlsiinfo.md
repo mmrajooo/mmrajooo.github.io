@@ -1,7 +1,7 @@
 +++
 image = "https://upload.wikimedia.org/wikipedia/commons/4/49/Vlsiopamp2.gif"
 showonlyimage = true
-draft = fse 
+draft = false 
 date = "2018-09-01T00:00:00+05:00"
 title = "VLSI Information"
 categories = [ "blog" ]
