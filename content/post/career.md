@@ -1,7 +1,7 @@
 +++
 image = "img/mlrco.png"
 showonlyimage = true
-draft = true`
+draft = true
 date = "2019-01-01T00:00:00+05:00"
 title = "The Academic Career"
 categories = [ "blog" ]
