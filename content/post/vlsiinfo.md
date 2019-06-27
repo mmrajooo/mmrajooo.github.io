@@ -1,7 +1,7 @@
 +++
 image = "https://upload.wikimedia.org/wikipedia/commons/4/49/Vlsiopamp2.gif"
 showonlyimage = true
-draft = flse
+draft = false
 date = "2019-01-01T00:00:00+05:00"
 title = "The Academic Career"
 categories = [ "blog" ]
