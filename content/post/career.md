@@ -8,6 +8,8 @@ categories = [ "blog" ]
 weight = 0
 +++
 
+iTest 
+
 I believe I am very fortunate to have graduated with three Masters Degree's. Looking back
 as to how crazy and naughty I was in school, it would certainly give a heart attack to most
 of my teachers in Middle and High school. The common theme in all my academics has been
