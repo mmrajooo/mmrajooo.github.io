@@ -42,7 +42,7 @@ The [blog](http://mayursvlsiinfopage.blogspot.com/)  is still hosted on blogspot
 
 ## Books
 The Books I have usually referenced
-* [Verilog HDL (2nd Edition)]()
+* [[[https://images-na.ssl-images-amazon.com/images/I/51K40RDDBSL._SX375_BO1,204,203,200_.jpg]]](https://amzn.to/2IQPQPY) [Verilog HDL (2nd Edition)](https://amzn.to/2IQPQPY)
 * [The Designer's Guide to VHDL (Systems on Silicon)]()
 * [Principles of CMOS VLSI Design]()
 * [CMOS IC Layout : Concepts, Methodologies, and Tools (Newnes)]()
