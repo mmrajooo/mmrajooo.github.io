@@ -1,7 +1,7 @@
 +++
 image = "img/ca-cpa.png"
 showonlyimage = true
-draft = false
+draft = true
 date = "2018-10-04T00:00:00+05:00"
 title = "ICFAI CA and US CPA"
 categories = [ "India" ]

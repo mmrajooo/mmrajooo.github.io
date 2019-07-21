@@ -42,7 +42,8 @@ The [blog](http://mayursvlsiinfopage.blogspot.com/)  is still hosted on blogspot
 
 ## Books
 The Books I have usually referenced
-* [[[https://images-na.ssl-images-amazon.com/images/I/51K40RDDBSL._SX375_BO1,204,203,200_.jpg]]](https://amzn.to/2IQPQPY) [Verilog HDL (2nd Edition)](https://amzn.to/2IQPQPY)
+* [[[https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=100|width=50px]]](http://www.inf.ufrgs.br/~gozardo)
+* [![HOO HAAA](https://images-na.ssl-images-amazon.com/images/I/51K40RDDBSL._SX375_BO1,204,203,200_.jpg)](https://amzn.to/2IQPQPY) [Verilog HDL (2nd Edition)](https://amzn.to/2IQPQPY)
 * [The Designer's Guide to VHDL (Systems on Silicon)]()
 * [Principles of CMOS VLSI Design]()
 * [CMOS IC Layout : Concepts, Methodologies, and Tools (Newnes)]()
