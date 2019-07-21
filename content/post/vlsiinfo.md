@@ -7,11 +7,7 @@ title = "VLSI Information"
 categories = [ "blog" ]
 weight = 0
 +++
-#####
-This Blog is still under heavy contruction... 
-I hope to go live soon in Aug 2019
-In the meantime I have my old blog all  summarised in this one post here
-#####
+##### This Blog is still under heavy contruction...  I hope to go live soon in Aug 2019 In the meantime I have my old blog all  summarised in this one post here #####
 
 In the good old days of the last century and early this century I used to run a small blog
 or a resource page about VLSI (Very Large Scale Integrated) circuit design and resources.
