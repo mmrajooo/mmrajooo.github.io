@@ -3,7 +3,7 @@ image = "https://upload.wikimedia.org/wikipedia/commons/4/49/Vlsiopamp2.gif"
 showonlyimage = true
 draft = false
 date = "2018-09-01T00:00:00+05:00"
-title = "VLSI Information"
+title = "VLSI Design"
 categories = [ "blog" ]
 weight = 0
 +++
@@ -43,24 +43,48 @@ The [blog](http://mayursvlsiinfopage.blogspot.com/)  is still hosted on blogspot
 
 ## Books
 The Books I have usually referenced
-* [[[https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=100|width=50px]]](http://www.inf.ufrgs.br/~gozardo)
-* [![HOO HAAA](https://images-na.ssl-images-amazon.com/images/I/51K40RDDBSL._SX375_BO1,204,203,200_.jpg)](https://amzn.to/2IQPQPY) [Verilog HDL (2nd Edition)](https://amzn.to/2IQPQPY)
-* [The Designer's Guide to VHDL (Systems on Silicon)]()
-* [Principles of CMOS VLSI Design]()
-* [CMOS IC Layout : Concepts, Methodologies, and Tools (Newnes)]()
-* [Writing Testbenches using SystemVerilog]()
-* [A Practical Guide for SystemVerilog Assertions]()
-* [Advanced ASIC Chip Synthesis Using Synopsys® Design Compiler® Physical Compiler® and PrimeTime®]()
-* [Physical Design Essentials: An ASIC Design Implementation Perspective]()
-* [Switching and Finite Automata Theory (McGraw-Hill computer science series)]()
+
+<table border=0>
+<tr> <td align=center>
+[<img src=https://images-na.ssl-images-amazon.com/images/I/51K40RDDBSL._SX375_BO1,204,203,200_.jpg width=50>](https://amzn.to/2IQPQPY)  
+[Verilog HDL (2nd Edition)](https://amzn.to/2IQPQPY)
+</td><td align=center>
+[<img src=https://images-na.ssl-images-amazon.com/images/I/51PKkicImcL._SX406_BO1,204,203,200_.jpg  width=50>](https://amzn.to/2IR5wT7)  
+[The Designer’s Guide to VHDL (Systems on Silicon)](https://amzn.to/2IR5wT7)
+</td><td align=center>
+[<img src=https://images-na.ssl-images-amazon.com/images/I/614EEBAoSqL._SX398_BO1,204,203,200_.jpg  width=50>](https://amzn.to/2LmXovr)  
+[CMOS VLSI Design: A Circuits and Systems Perspective](https://amzn.to/2LmXovr)
+</td></tr>
+
+<tr><td align=center>
+[<img src=https://images-na.ssl-images-amazon.com/images/I/51QxbYGf2LL._SX348_BO1,204,203,200_.jpg  width=50>](https://amzn.to/2J9wAMp)  
+[CMOS IC Layout : Concepts, Methodologies, and Tools (Newnes)](https://amzn.to/2J9wAMp)
+</td><td align=center>
+[<img src=https://images-na.ssl-images-amazon.com/images/I/51Mp%2B1kRJQL._SX324_BO1,204,203,200_.jpg  width=50>](https://amzn.to/2LkC4H3)  
+[Writing Testbenches: Functional Verification of HDL Models](https://amzn.to/2LkC4H3)
+</td><td align=center>
+[<img src=https://images-na.ssl-images-amazon.com/images/I/41Cxt3sLRNL._SX324_BO1,204,203,200_.jpg  width=50>](https://amzn.to/2IRWR2R)  
+[A Practical Guide for SystemVerilog Assertions](https://amzn.to/2IRWR2R)
+</td></tr>
+
+<tr><td align=center>
+* [<img src=https://images-na.ssl-images-amazon.com/images/I/41glZ6PEawL._SX314_BO1,204,203,200_.jpg  width=100>](https://amzn.to/2ISxYnF)  
+[Advanced ASIC Chip Synthesis Using Synopsys® Design Compiler® Physical Compiler® and PrimeTime®](https://amzn.to/2ISxYnF)
+</td><td align=center>
+* [<img src=https://images-na.ssl-images-amazon.com/images/I/51Xe06K6FbL._SX326_BO1,204,203,200_.jpg  width=100>](https://amzn.to/2XcMlMv)  
+[Physical Design Essentials: An ASIC Design Implementation Perspective](https://amzn.to/2XcMlMv)
+</td><td align=center>
+* [<img src=https://images-na.ssl-images-amazon.com/images/I/31SQMs%2B9OPL._BO1,204,203,200_.jpg width=100>](https://amzn.to/2NrDKRQ)  
+[Switching and Finite Automata Theory (McGraw-Hill computer science series)](https://amzn.to/2NrDKRQ)
+</td></tr>
+</table>
+*
 
 ## Links
 * [Rajesh Bawankule's Blog](http://rajesh52.blogspot.com/)
-* ICCAD
-* ISQED
-* DAC
-* Cadence
-* Synopsys
-* Magma
-* Mentor
-* Sequence
+* [ICCAD](https://iccad.com/)
+* [ISQED](https://www.isqed.org/)
+* [DAC](https://www.dac.com/)
+* [Cadence](https://www.cadence.com/)
+* [Synopsys](https://www.synopsys.com/)
+* [Mentor Graphics](https://www.mentor.com/)
