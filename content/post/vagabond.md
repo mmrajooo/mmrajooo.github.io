@@ -13,8 +13,8 @@ weight = 0
 I had studied this poem by R. L. Stevenson when I was in high school, it was my favorite and is a great source of
 inspiration.
 
-[Poetry Lovers Page](https://www.poetryloverspage.com/poets/stevenson/vagabond.html)  
-[Robert Lewis Stevenson](https://en.wikipedia.org/wiki/Robert_Louis_Stevenson)
+[The Vagabond @Poetry Lovers Page](https://www.poetryloverspage.com/poets/stevenson/vagabond.html)  
+[Robert Lewis Stevenson @wikipedia](https://en.wikipedia.org/wiki/Robert_Louis_Stevenson)
 
 <!--more-->
 
