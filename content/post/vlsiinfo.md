@@ -30,11 +30,15 @@ The [blog](http://mayursvlsiinfopage.blogspot.com/)  is still hosted on blogspot
 
 ## Verilog Resources
 * [Rajesh Bawankule's Verilog Center](http://www.angelfire.com/in/rajesh52/verilog.html)
-* Project VeriPage (PLI resources)
-* Veripool: Public domain verilog resources
+* [Project VeriPage](https://www.project-veripage.com/index.php)
+* [Veripool: Public domain verilog resources](https://www.veripool.org/)
 * Alternate Verilog FAQ.
-* Verilog On-Line Mannual, by Prof. Gerrard Blair
-* Verilog Introduction for Digital Design
+[Main](http://vlsicad.eecs.umich.edu/BK/Slots/cache/bawankule.com/verilogfaq/)
+[P1](http://vlsicad.eecs.umich.edu/BK/Slots/cache/bawankule.com/verilogfaq/page2.html)
+[P2](http://vlsicad.eecs.umich.edu/BK/Slots/cache/bawankule.com/verilogfaq/page3.html)
+[P3](http://vlsicad.eecs.umich.edu/BK/Slots/cache/bawankule.com/verilogfaq/page4.html)
+[WN](http://vlsicad.eecs.umich.edu/BK/Slots/cache/bawankule.com/verilogfaq/whats_new.html)
+[LI](http://vlsicad.eecs.umich.edu/BK/Slots/cache/bawankule.com/verilogfaq/links.html)
 
 ## VHDL Resources
 * VASG
