@@ -1,6 +1,6 @@
 
 +++
-image = "https://commons.wikimedia.org/wiki/File:Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg"
+image = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg/360px-Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg"
 showonlyimage = true
 draft = false
 date = "2018-09-01T00:00:00+05:00"
@@ -13,43 +13,46 @@ weight = 0
 This poem by R. L. Stevenson was part of the English cirriculum when I was in school and has always been my favorite
 since the time I studied it. It gives a very different meaning to the word is ever inspiring. 
 
-[Poetry Lovers Page](https://www.poetryloverspage.com/poets/stevenson/vagabond.html)
+[Poetry Lovers Page](https://www.poetryloverspage.com/poets/stevenson/vagabond.html)  
 [Robert Lewis Stevenson](https://en.wikipedia.org/wiki/Robert_Louis_Stevenson)
 
 <!--more-->
 
-Give to me the life I love,
-  Let the lave go by me,
-Give the jolly heaven above
-  And the byway night me.
-Bed in the bush with stars to see,
-  Bread I dip in the river --
-There's the life for a man like me,
-  There's the life for ever.
+```
+Give to me the life I love,  
+  Let the lave go by me,  
+Give the jolly heaven above 
+  And the byway night me.  
+Bed in the bush with stars to see,  
+  Bread I dip in the river --  
+There's the life for a man like me,  
+  There's the life for ever.  
 
-Let the blow fall soon or late,
-  Let what will be o'er me;
-Give the face of earth around
-  And the road before me.
-Wealth I seek not, hope nor love,
-  Nor a friend to know me;
-All I seek, the heaven above
+Let the blow fall soon or late, 
+  Let what will be o'er me; 
+Give the face of earth around 
+  And the road before me.  
+Wealth I seek not, hope nor love,  
+  Nor a friend to know me;  
+All I seek, the heaven above  
   And the road below me.
 
-Or let autumn fall on me
-  Where afield I linger,
-Silencing the bird on tree,
-  Biting the blue finger;
-White as meal the frosty field --
-  Warm the fireside haven --
-Not to autumn will I yield,
+Or let autumn fall on me  
+  Where afield I linger,  
+Silencing the bird on tree, 
+  Biting the blue finger; 
+White as meal the frosty field -- 
+  Warm the fireside haven -- 
+Not to autumn will I yield,  
   Not to winter even!
 
-Let the blow fall soon or late,
-  Let what will be o'er me;
-Give the face of earth around,
-  And the road before me.
-Wealth I ask not, hope, nor love,
-  Nor a friend to know me.
-All I ask, the heaven above
-  And the road below me.
+Let the blow fall soon or late, 
+  Let what will be o'er me; 
+Give the face of earth around, 
+  And the road before me.  
+Wealth I ask not, hope, nor love,  
+  Nor a friend to know me.  
+All I ask, the heaven above  
+  And the road below me.  
+```
+
