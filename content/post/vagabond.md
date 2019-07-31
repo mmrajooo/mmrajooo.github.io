@@ -10,8 +10,8 @@ weight = 0
 +++
 **This Blog is still under heavy contruction...  I hope to go live soon in Aug 2019 In the meantime I have my old blog all  summarised in this one post here**
 
-This poem by R. L. Stevenson was part of the English cirriculum when I was in school and has always been my favorite
-since the time I studied it. It gives a very different meaning to the word is ever inspiring. 
+I had studied this poem by R. L. Stevenson when I was in high school, it was my favorite and is a great source of
+inspiration.
 
 [Poetry Lovers Page](https://www.poetryloverspage.com/poets/stevenson/vagabond.html)  
 [Robert Lewis Stevenson](https://en.wikipedia.org/wiki/Robert_Louis_Stevenson)
