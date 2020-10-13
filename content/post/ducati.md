@@ -1,7 +1,7 @@
 +++
 image = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ducati_red_logo.PNG/256px-Ducati_red_logo.PNG"
 showonlyimage = true
-draft = false
+draft = true
 date = "2018-09-01T00:00:00+05:00"
 title = "Ducati Case Analysis"
 categories = [ "blog" ]
