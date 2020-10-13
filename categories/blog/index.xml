@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Rambles of a Technologist in Business</title>
@@ -6,10 +6,15 @@
     <description>Recent content in blog on Rambles of a Technologist in Business</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0500</lastBuildDate>
-    
-	<atom:link href="https://www.rajwadkar.net/categories/blog/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0500</lastBuildDate><atom:link href="https://www.rajwadkar.net/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ducati Case Analysis</title>
+      <link>https://www.rajwadkar.net/post/ducati/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.rajwadkar.net/post/ducati/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;This Blog is still under heavy contruction&amp;hellip;  I hope to go live soon in Aug 2019 In the meantime I have my old blog all  summarised in this one post here&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The Vagabond</title>
@@ -18,11 +23,9 @@
       
       <guid>https://www.rajwadkar.net/post/vagabond/</guid>
       <description>&lt;p&gt;&lt;strong&gt;This Blog is still under heavy contruction&amp;hellip;  I hope to go live soon in Aug 2019 In the meantime I have my old blog all  summarised in this one post here&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;I had studied this poem by R. L. Stevenson when I was in high school, it was my favorite and is a great source of
 inspiration.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.poetryloverspage.com/poets/stevenson/vagabond.html&#34;&gt;The Vagabond @Poetry Lovers Page&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.poetryloverspage.com/poets/stevenson/vagabond.html&#34;&gt;The Vagabond @Poetry Lovers Page&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_Louis_Stevenson&#34;&gt;Robert Lewis Stevenson @wikipedia&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
@@ -33,7 +36,6 @@ inspiration.&lt;/p&gt;
       
       <guid>https://www.rajwadkar.net/post/vlsiinfo/</guid>
       <description>&lt;p&gt;&lt;strong&gt;This Blog is still under heavy contruction&amp;hellip;  I hope to go live soon in Aug 2019 In the meantime I have my old blog all  summarised in this one post here&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;In the good old days of the last century and early this century I used to run a small blog
 or a resource page about VLSI (Very Large Scale Integrated) circuit design and resources.
 The domain was pretty new in the time and there were very little resources available at the time.
