@@ -7,8 +7,6 @@ title = "Ducati : Giovanni Gavetti"
 categories = [ "blog" ]
 weight = 0
 +++
-**This Blog is still under heavy contruction...  I hope to go live soon in Aug 2019 Io
-n the meantime I have my old blog all  summarised in this one post here**
 
 The Ducati Case Study<sup>1</sup> by [Giovanni
 Gavetti](https://store.hbr.org/search.php?search_query=Giovanni%20Gavetti&section=product),
