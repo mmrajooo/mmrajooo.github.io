@@ -48,10 +48,9 @@ The [blog](http://mayursvlsiinfopage.blogspot.com/)  is still hosted on blogspot
 ## Books
 The Books I have usually referenced
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| :----:      | :----:      |  :----:      |
+| Header      | Title       |  Title       |
+| Paragraph   | Text        |  Text        |
 
 
 <table border=0>
