@@ -1,6 +1,6 @@
 
 +++
-image = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg/360px-Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg"
+image = "img/rlstevenson.jpg"
 showonlyimage = true
 draft = false
 date = "2018-09-01T00:00:00+05:00"
