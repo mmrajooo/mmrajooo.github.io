@@ -72,3 +72,8 @@ paginate = 5 #frontpage pagination
     bio = [
       "Mayuresh is a blach black "
     ]
+
+[markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      xhtml = true
