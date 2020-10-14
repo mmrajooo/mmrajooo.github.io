@@ -39,7 +39,7 @@ Maserati, etc. In Minoli&#39;s view the Ducati product was very unique and
 offered &quot;beautiful performance&quot; in spite of being less efficient and
 reliable compared to the competition. Ducati also had excellent engineers in
 
-![Annotated Exhibit 6](img/duc00-ex6.png)
+![Annotated Exhibit 6](/img/duc00-ex6.png)
 __exibit 6__
 
 
