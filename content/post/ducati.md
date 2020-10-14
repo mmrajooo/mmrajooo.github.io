@@ -7,7 +7,24 @@ title = "Ducati Case Analysis"
 categories = [ "blog" ]
 weight = 0
 +++
-**This Blog is still under heavy contruction...  I hope to go live soon in Aug 2019 In the meantime I have my old blog all  summarised in this one post here**
+**This Blog is still under heavy contruction...  I hope to go live soon in Aug 2019 Io
+n the meantime I have my old blog all  summarised in this one post here**
+
+The Ducati Case Study by Giovanni Gavetti, focuses on the turnaround and
+strategic repositioning of Ducati, an Italian maker of high-end sport
+motorcycles, and describes the current concerns with the growth prospects of
+the company. Federico Minoli, the CEO and strategic mind behind the turnaround,
+knew that Ducati could not grow indefinitely in its current niche. One
+alternative was to attack Harley Davidson's niche with a Ducati interpretation
+of a cruiser.
+
+The analysis below tries to answer the following questions.
+
+- What was the fundamental logic behind Minoli’s actions to turn Ducati around?
+- What was the underlying economic logic of Minoli’s turnaround?
+- Can Ducati sustain its current growth in the sports segment? Can key competitors take counter actions to reduce Ducati’s growth prospects?
+- What are Minoli’s strategic options in 2001?
+- Which would you recommend? (I expect you to back your recommendations with hard data)
 
 <!--more-->
 
