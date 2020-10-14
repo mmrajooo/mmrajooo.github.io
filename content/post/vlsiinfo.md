@@ -47,10 +47,22 @@ The [blog](http://mayursvlsiinfopage.blogspot.com/)  is still hosted on blogspot
 
 ## Books
 The Books I have usually referenced
-
+|             |             |              |
 | :----:      | :----:      |  :----:      |
 | Header      | Title       |  Title       |
 | Paragraph   | Text        |  Text        |
+| [<img src=https://images-na.ssl-images-amazon.com/images/I/51K40RDDBSL._SX375_BO1,204,203,200_.jpg width=100>](https://amzn.to/2IQPQPY)  
+[Verilog HDL (2nd Edition)](https://amzn.to/2IQPQPY) |
+[<img src=https://images-na.ssl-images-amazon.com/images/I/51PKkicImcL._SX406_BO1,204,203,200_.jpg  width=100>](https://amzn.to/2IR5wT7)  
+[The Designer’s Guide to VHDL (Systems on Silicon)](https://amzn.to/2IR5wT7) |
+[<img src=https://images-na.ssl-images-amazon.com/images/I/614EEBAoSqL._SX398_BO1,204,203,200_.jpg  width=100>](https://amzn.to/2LmXovr)  
+[CMOS VLSI Design: A Circuits and Systems Perspective](https://amzn.to/2LmXovr) |
+| [<img src=https://images-na.ssl-images-amazon.com/images/I/51QxbYGf2LL._SX348_BO1,204,203,200_.jpg  width=100>](https://amzn.to/2J9wAMp)  
+[CMOS IC Layout : Concepts, Methodologies, and Tools (Newnes)](https://amzn.to/2J9wAMp) |
+[<img src=https://images-na.ssl-images-amazon.com/images/I/51Mp%2B1kRJQL._SX324_BO1,204,203,200_.jpg  width=100>](https://amzn.to/2LkC4H3)  
+[Writing Testbenches: Functional Verification of HDL Models](https://amzn.to/2LkC4H3) |
+[<img src=https://images-na.ssl-images-amazon.com/images/I/41Cxt3sLRNL._SX324_BO1,204,203,200_.jpg  width=100>](https://amzn.to/2IRWR2R)  
+[A Practical Guide for SystemVerilog Assertions](https://amzn.to/2IRWR2R) |
 
 
 <table border=0>
