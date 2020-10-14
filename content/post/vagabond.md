@@ -22,7 +22,7 @@ Give to me the life I love,
 Give the jolly heaven above  
   And the byway night me.  
 Bed in the bush with stars to see,  
-  Bread I dip in the river  
+  Bread I dip in the river --  
 There's the life for a man like me,   
   There's the life for ever.   
 
@@ -39,8 +39,8 @@ Or let autumn fall on me
   Where afield I linger,  
 Silencing the bird on tree,  
   Biting the blue finger;  
-White as meal the frosty field  
-  Warm the fireside haven  
+White as meal the frosty field --  
+  Warm the fireside haven --  
 Not to autumn will I yield,  
   Not to winter even!  
 
