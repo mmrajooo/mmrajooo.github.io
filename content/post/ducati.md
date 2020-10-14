@@ -40,7 +40,6 @@ offered &quot;beautiful performance&quot; in spite of being less efficient and
 reliable compared to the competition. Ducati also had excellent engineers in
 
 ![Annotated Exhibit 6](/img/duc00-ex6.png)
-__exibit 6__
 
 
 its R&amp;D and Racing divisions, whose main focus was to defeat the Japanese
@@ -56,7 +55,7 @@ The market for motorcycles is large and can be divided into
 multiple segments based on a Performance-Comfort vs Function-Lifestyle matrix.
 (Exhibit 4).
 
-__exibit 4__
+![Annotated Exhibit 4](/img/duc01-ex4.png)
 
 Ducati in 1996 was present only in the sports/performance segment, and all the
 other competing companies are present in all or more than a few segments. The
@@ -79,7 +78,7 @@ total market share was way behind the Japanese competition, and lesser than the
 brands of BMW and Harley-Davidson (Exhibit 3) especially in 1996 at the time of
 TPG acquisition.
 
-__exibit 3__
+![Annotated Exhibit 3](/img/duc02-ex3.png)
 
 We discussed Minoli&#39;s fundamental strategic focus earlier. Economically he
 set forth the goal to grow at double digits and match the profitability of
@@ -138,25 +137,25 @@ on their website as mentioned earlier.
 The following is a visualization of the sports segment market share
 over the years, for the European market
 
-__europe__
+![Europe](/img/duc03-europe.png)
 
 and this is for the World market 
 
-__world__
+![World](/img/duc04-world.png)
 
 One can observe that the market share for Ducati, has slightly increased over the years, however this is still very small relative to the Japanese manufacturers. In spite of the positive changes, the company has not really made any big inroads in to the market share of the Japanese manufacturers, it however has definitely captured the market from BMW and Harley Davidson as seen again in Exibit 3 in the year 2000.
 
-__exibit 3__
+![Annotated Exhibit 3.2](/img/duc05-ex3.png)
 
 The other metric to look at is the financials of the company.
 
-__exibit 1__
+![Annotated Exhibit 1](/img/duc06-ex1.png)
 
 The calculated rows (pink) show the year on year growth in net income and market share. One can deduce that the strategy deployed by Minoli has worked very well, and the company is having a sustained year on year growth. 
 
 **SWOT Analysis / 2001 / Sports Segment**
 
-__swot analysis__
+![Swot](/img/duc07-swot.png)
 
 There are almost no new incremental opportunities, in the sports segment, the momentum of the last 2~3 years will be beneficial for the segment and will results only in marginal gains and the growth would slow down for Ducati. There is also a threat that the extensive Japanese competition could innovate and suddenly eat into the growing market share. It should be noted that the Japanese manufacturers are very diverse in their industry footprint and have better leverage if they re-strategize themselves. 
 
@@ -168,7 +167,7 @@ Minoli hence has 3 more options,
  * he can expand into the Harley niche with performance lifestyle models, or 
  * he can invest to develop lower-performance models and enter the easy riders market. 
 
-__exibit 4__
+![Annotated Exhibit 4.2](/img/duc08-ex4.png)
 
 **My Recommendation**
 
@@ -176,11 +175,11 @@ The momentum built in to product growth under Minoli’s turnaround strategy wil
 
 There are two factors here in play the first is the Brand Loyalty. We can see from Exhibit 16 of the case that it has increased positively for Harley Davidson and Ducati and a small bit for Kawasaki. This will play a huge role in preferring to expand in the cruiser market with Harley Davidson. Harley being a American Brand, it will be hard to break into its domain in the US, however it would be relatively easy to break into the European market
 
-__exibit 16__
+![Annotated Exhibit 16](/img/duc09-ex16.png)
 
 The second factor in plays is the cost structure of Ducati vs Harley Davidson, as demonstrated in Exhibit 12 of the case. 
 
-__exibit 12__
+![Annotated Exhibit 12](/img/duc10-ex12.png)
 
 We can see that cost structure of Ducati has definitely improved compared to 1996, however its Fixed Sales Costs and G&A are still relatively much higher in percentage than Harley Davidson. Minoli should take strict steps in the right direction to reduce the fixed sales costs and G&A. One of the ways this could be done is increasing the accessories and apparel business in a more European strategized way. Ducati being a European company I would say has a better understanding of the customer 
 sentiment than the American company. The company is trying to move into the “lifestyle” segment so that means more marketing than technical/performance investment is needed. 
