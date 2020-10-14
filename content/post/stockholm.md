@@ -1,7 +1,7 @@
 +++
 image = "img/stockholm.jpg"
 showonlyimage = true
-draft = false
+draft = true
 date = "2018-06-30T00:00:00+05:00"
 title = "The Stockholm Experience"
 categories = [ "travel" ]
