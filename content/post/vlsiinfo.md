@@ -41,8 +41,8 @@ The [blog](http://mayursvlsiinfopage.blogspot.com/)  is still hosted on blogspot
 [LI](http://vlsicad.eecs.umich.edu/BK/Slots/cache/bawankule.com/verilogfaq/links.html)
 
 ## VHDL Resources
-* VASG
-* VHDL Tutorial
+- [VASG](http://www.eda-twiki.org/vasg/)
+- [VHDL Tutorials ](https://hackr.io/tutorials/learn-vhdl)
 
 
 ## Books
