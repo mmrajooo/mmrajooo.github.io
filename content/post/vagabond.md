@@ -13,22 +13,22 @@ I had studied this poem by R. L. Stevenson when I was in high school, it was my 
 inspiration.
 
 [The Vagabond @Poetry Lovers Page](https://www.poetryloverspage.com/poets/stevenson/vagabond.html)  
-[Robert Lewis Stevenson @wikipedia](https://en.wikipedia.org/wiki/Robert_Louis_Stevenson)
+[Robert Lewis Stevenson @wikipedia](https://en.wikipedia.org/wiki/Robert_Louis_Stevenson)  
 
 <!--more-->
 
 Give to me the life I love,  
   Let the lave go by me,  
-Give the jolly heaven above 
+Give the jolly heaven above  
   And the byway night me.  
 Bed in the bush with stars to see,  
-  Bread I dip in the river --  
-There's the life for a man like me,  
-  There's the life for ever.  
+  Bread I dip in the river  
+There's the life for a man like me,   
+  There's the life for ever.   
 
 Let the blow fall soon or late,  
   Let what will be o'er me;  
-Give the face of earth around   
+Give the face of earth around  
   And the road before me.  
 Wealth I seek not, hope nor love,  
   Nor a friend to know me;  
@@ -42,11 +42,11 @@ Silencing the bird on tree,
 White as meal the frosty field  
   Warm the fireside haven  
 Not to autumn will I yield,  
-  Not to winter even!
+  Not to winter even!  
 
-Let the blow fall soon or late, 
-  Let what will be o'er me; 
-Give the face of earth around, 
+Let the blow fall soon or late,  
+  Let what will be o'er me;  
+Give the face of earth around,  
   And the road before me.  
 Wealth I ask not, hope, nor love,  
   Nor a friend to know me.  
