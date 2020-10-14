@@ -39,6 +39,7 @@ Maserati, etc. In Minoli&#39;s view the Ducati product was very unique and
 offered &quot;beautiful performance&quot; in spite of being less efficient and
 reliable compared to the competition. Ducati also had excellent engineers in
 
+![Annotated Exhibit 6](img/duc00-ex6.png)
 __exibit 6__
 
 
@@ -185,6 +186,6 @@ We can see that cost structure of Ducati has definitely improved compared to 199
 sentiment than the American company. The company is trying to move into the “lifestyle” segment so that means more marketing than technical/performance investment is needed. 
 
 ** References:**
-* The Content Trap: A Strategist's Guide to Digital Change Hardcover – October 18, 2016 
-by Bharat Anand ISBN-10: 0812995384
+* [Ducati - June 28, 2001 by Giovanni Gavetti](https://store.hbr.org/product/ducati/701132)
+* [The Content Trap: A Strategist's Guide to Digital Change Hardcover – October 18, 2016 by Bharat Anand ISBN-10: 0812995384](https://amzn.to/3iTFFZz)
 
