@@ -184,7 +184,7 @@ The second factor in plays is the cost structure of Ducati vs Harley Davidson, a
 We can see that cost structure of Ducati has definitely improved compared to 1996, however its Fixed Sales Costs and G&A are still relatively much higher in percentage than Harley Davidson. Minoli should take strict steps in the right direction to reduce the fixed sales costs and G&A. One of the ways this could be done is increasing the accessories and apparel business in a more European strategized way. Ducati being a European company I would say has a better understanding of the customer 
 sentiment than the American company. The company is trying to move into the “lifestyle” segment so that means more marketing than technical/performance investment is needed. 
 
-** References:**
+**References:**
 * [Ducati - June 28, 2001 by Giovanni Gavetti](https://store.hbr.org/product/ducati/701132)
 * [The Content Trap: A Strategist's Guide to Digital Change Hardcover – October 18, 2016 by Bharat Anand ISBN-10: 0812995384](https://amzn.to/3iTFFZz)
 
