@@ -203,3 +203,5 @@ sentiment than the American company. The company is trying to move into the “l
 1. [Ducati - June 28, 2001 by Giovanni Gavetti](https://store.hbr.org/product/ducati/701132)
 2. [The Content Trap: A Strategist's Guide to Digital Change Hardcover – October 18, 2016 by Bharat Anand ISBN-10: 0812995384](https://amzn.to/3iTFFZz)
 
+
+<sup> This case was presented to us an assigment in the MBA, this reflects my own personal analysis of the case. I have not collaborated with anyone in the class or team for this analysis. </sup>
