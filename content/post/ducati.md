@@ -10,7 +10,7 @@ weight = 0
 **This Blog is still under heavy contruction...  I hope to go live soon in Aug 2019 Io
 n the meantime I have my old blog all  summarised in this one post here**
 
-The Ducati Case Study by Giovanni Gavetti, focuses on the turnaround and
+The Ducati Case Study<sup>1</sup> by [Giovanni Gavetti](https://store.hbr.org/search.php?search_query=Giovanni%20Gavetti&section=product), focuses on the turnaround and
 strategic repositioning of Ducati, an Italian maker of high-end sport
 motorcycles, and describes the current concerns with the growth prospects of
 the company. Federico Minoli, the CEO and strategic mind behind the turnaround,
@@ -202,6 +202,6 @@ We can see that cost structure of Ducati has definitely improved compared to 199
 sentiment than the American company. The company is trying to move into the “lifestyle” segment so that means more marketing than technical/performance investment is needed. 
 
 **References:**
-* [Ducati - June 28, 2001 by Giovanni Gavetti](https://store.hbr.org/product/ducati/701132)
-* [The Content Trap: A Strategist's Guide to Digital Change Hardcover – October 18, 2016 by Bharat Anand ISBN-10: 0812995384](https://amzn.to/3iTFFZz)
+1. [Ducati - June 28, 2001 by Giovanni Gavetti](https://store.hbr.org/product/ducati/701132)
+2. [The Content Trap: A Strategist's Guide to Digital Change Hardcover – October 18, 2016 by Bharat Anand ISBN-10: 0812995384](https://amzn.to/3iTFFZz)
 
