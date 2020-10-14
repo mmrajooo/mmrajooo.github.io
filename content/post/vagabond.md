@@ -18,38 +18,38 @@ inspiration.
 <!--more-->
 
 Give to me the life I love,  
-  Let the lave go by me,  
+&nbsp;&nbsp; Let the lave go by me,  
 Give the jolly heaven above  
-  And the byway night me.  
+&nbsp;&nbsp; And the byway night me.  
 Bed in the bush with stars to see,  
-  Bread I dip in the river --  
+&nbsp;&nbsp; Bread I dip in the river --  
 There's the life for a man like me,   
-  There's the life for ever.   
+&nbsp;&nbsp; There's the life for ever.   
 
 Let the blow fall soon or late,  
-  Let what will be o'er me;  
+&nbsp;&nbsp; Let what will be o'er me;  
 Give the face of earth around  
-  And the road before me.  
+&nbsp;&nbsp; And the road before me.  
 Wealth I seek not, hope nor love,  
-  Nor a friend to know me;  
+&nbsp;&nbsp; Nor a friend to know me;  
 All I seek, the heaven above  
-  And the road below me.  
+&nbsp;&nbsp; And the road below me.  
 
 Or let autumn fall on me  
-  Where afield I linger,  
+&nbsp;&nbsp; Where afield I linger,  
 Silencing the bird on tree,  
-  Biting the blue finger;  
+&nbsp;&nbsp; Biting the blue finger;  
 White as meal the frosty field --  
-  Warm the fireside haven --  
+&nbsp;&nbsp; Warm the fireside haven --  
 Not to autumn will I yield,  
-  Not to winter even!  
+&nbsp;&nbsp; Not to winter even!  
 
 Let the blow fall soon or late,  
-  Let what will be o'er me;  
+&nbsp;&nbsp; Let what will be o'er me;  
 Give the face of earth around,  
-  And the road before me.  
+&nbsp;&nbsp; And the road before me.  
 Wealth I ask not, hope, nor love,  
-  Nor a friend to know me.  
+&nbsp;&nbsp; Nor a friend to know me.  
 All I ask, the heaven above  
-  And the road below me.  
+&nbsp;&nbsp; And the road below me.  
 
