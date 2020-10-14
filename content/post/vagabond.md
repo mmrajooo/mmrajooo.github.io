@@ -8,7 +8,6 @@ title = "The Vagabond"
 categories = [ "blog" ]
 weight = 0
 +++
-**This Blog is still under heavy contruction...  I hope to go live soon in Aug 2019 In the meantime I have my old blog all  summarised in this one post here**
 
 I had studied this poem by R. L. Stevenson when I was in high school, it was my favorite and is a great source of
 inspiration.
@@ -18,7 +17,6 @@ inspiration.
 
 <!--more-->
 
-```
 Give to me the life I love,  
   Let the lave go by me,  
 Give the jolly heaven above 
@@ -54,5 +52,4 @@ Wealth I ask not, hope, nor love,
   Nor a friend to know me.  
 All I ask, the heaven above  
   And the road below me.  
-```
 
