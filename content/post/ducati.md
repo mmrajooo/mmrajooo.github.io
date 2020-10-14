@@ -2,7 +2,7 @@
 image = "img/ducati-logo.png"
 showonlyimage = true
 draft = false
-date = "2018-09-01T00:00:00+05:00"
+date = "2017-05-09T00:00:00+05:00"
 title = "Ducati Case Analysis"
 categories = [ "blog" ]
 weight = 0
