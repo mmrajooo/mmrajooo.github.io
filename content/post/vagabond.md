@@ -26,21 +26,21 @@ Bed in the bush with stars to see,
 There's the life for a man like me,  
   There's the life for ever.  
 
-Let the blow fall soon or late, 
-  Let what will be o'er me; 
-Give the face of earth around 
+Let the blow fall soon or late,  
+  Let what will be o'er me;  
+Give the face of earth around   
   And the road before me.  
 Wealth I seek not, hope nor love,  
   Nor a friend to know me;  
 All I seek, the heaven above  
-  And the road below me.
+  And the road below me.  
 
 Or let autumn fall on me  
   Where afield I linger,  
-Silencing the bird on tree, 
-  Biting the blue finger; 
-White as meal the frosty field -- 
-  Warm the fireside haven -- 
+Silencing the bird on tree,  
+  Biting the blue finger;  
+White as meal the frosty field  
+  Warm the fireside haven  
 Not to autumn will I yield,  
   Not to winter even!
 
