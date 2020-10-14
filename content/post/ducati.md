@@ -3,21 +3,23 @@ image = "img/ducati-logo.png"
 showonlyimage = true
 draft = false
 date = "2017-05-09T00:00:00+05:00"
-title = "Ducati Case Analysis"
+title = "Ducati : Giovanni Gavetti"
 categories = [ "blog" ]
 weight = 0
 +++
 **This Blog is still under heavy contruction...  I hope to go live soon in Aug 2019 Io
 n the meantime I have my old blog all  summarised in this one post here**
 
-The Ducati Case Study<sup>1</sup> by [Giovanni Gavetti](https://store.hbr.org/search.php?search_query=Giovanni%20Gavetti&section=product), focuses on the turnaround and
-strategic repositioning of Ducati, an Italian maker of high-end sport
-motorcycles, and describes the current concerns with the growth prospects of
-the company. Federico Minoli, the CEO and strategic mind behind the turnaround,
-knew that Ducati could not grow indefinitely in its current niche. One
-alternative was to attack Harley Davidson's niche with a Ducati interpretation
-of a cruiser.
+The Ducati Case Study<sup>1</sup> by [Giovanni
+Gavetti](https://store.hbr.org/search.php?search_query=Giovanni%20Gavetti&section=product),
+focuses on the turnaround and strategic repositioning of Ducati, an Italian
+maker of high-end sport motorcycles, and describes the current concerns with
+the growth prospects of the company. Federico Minoli, the CEO and strategic
+mind behind the turnaround, knew that Ducati could not grow indefinitely in its
+current niche. One alternative was to attack Harley Davidson's niche with a
+Ducati interpretation of a cruiser.
 
+<!--more-->
 The analysis below tries to answer the following questions.
 
 - What was the fundamental logic behind Minoli’s actions to turn Ducati around?
@@ -25,8 +27,6 @@ The analysis below tries to answer the following questions.
 - Can Ducati sustain its current growth in the sports segment? Can key competitors take counter actions to reduce Ducati’s growth prospects?
 - What are Minoli’s strategic options in 2001?
 - Which would you recommend? (I expect you to back your recommendations with hard data)
-
-<!--more-->
 
 
 ## Ducati Case Analysis
@@ -132,7 +132,7 @@ the number of dealers, and lastly by establishing signature stores, where
 customers could get premium experience and support for Ducati branded products.
 
 A special note of mention is also their smart online marketing efforts at
-Ducati.com as early as 2000, with reference to the &quot;Network Effects&quot;, 
+Ducati.com as early as 2000, with reference to the &quot;Network Effects&quot;,<sup>2</sup> 
 it&#39;s interesting to note the quote from Christiano Silei that
 &quot;The Internet is first of all a great instrument to communicate to our
 virtual visitors our racing and Italian identity. Consider that we estimate
