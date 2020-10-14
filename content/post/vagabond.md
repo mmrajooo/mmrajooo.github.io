@@ -1,6 +1,6 @@
 
 +++
-image = "img/rlstevenson.jpg"
+image = "img/RL-Stevenson-2x1.jpg"
 showonlyimage = true
 draft = false
 date = "2018-09-01T00:00:00+05:00"
