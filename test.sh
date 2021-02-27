@@ -38,8 +38,10 @@ if [ -d public ] ; then
    git rm -rf * 
    popd
 else
-    [ is_in_local master  ] &&  msg "Adding the master branch into the \`public\` folder" \
-    git worktree add -B master public origin/master
+    if  is_in_local master  ; then 
+       msg "Adding the master branch into the \`public\` folder" 
+       git worktree add -B master public origin/master
+    fi 
 fi 
 
 msg "Building the website"
