@@ -1,4 +1,4 @@
-baseURL = "https://www.rajwadkar.net/"
+baseURL = "https://www.rajwadkar.us/"
 title = "Rambles of a Technologist in Business" 
 theme = "hugo-nederburg-theme-static"
 languageCode = "en-gb"
@@ -13,7 +13,7 @@ paginate = 5 #frontpage pagination
   slogan = "WHEN there is a WILL, there is a WAY"
   description = "Rambles of a Technologist in Business" # meta description
   author = "Mayuresh Rajwadkar"
-  authorLink = "https://www.rajwadkar.net/"
+  authorLink = "https://www.rajwadkar.us/"
   bio = [
   "I am a semiconductor and IT professional working to finesse my life and business skills"
   ]
@@ -67,10 +67,10 @@ paginate = 5 #frontpage pagination
 
  [params.writers]
     [params.writers."Mayuresh Rajwadkar"]
-    link = "https://ww.rajwadkar.net/"
-    email = "m.m.rajwadkar+www@ieee.org"
+    link = "https://ww.rajwadkar.us/"
+    email = "mmr-us@rajwadkar.us"
     bio = [
-      "Mayuresh is a blach black "
+      "Mayuresh is a blah blah "
     ]
 
 [markup.goldmark]
