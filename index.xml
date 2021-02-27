@@ -6,7 +6,16 @@
     <description>Recent content on Rambles of a Technologist in Business</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0500</lastBuildDate><atom:link href="https://www.rajwadkar.us/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0500</lastBuildDate><atom:link href="https://www.rajwadkar.us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source Designs and EDA</title>
+      <link>https://www.rajwadkar.us/post/opensourceeda/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0500</pubDate>
+      
+      <guid>https://www.rajwadkar.us/post/opensourceeda/</guid>
+      <description>&lt;p&gt;A majority of the IC designs are proprietary and confidential and are owned by the major players in the market. In the  recent years there has been resurgence in Open Source IP, the most notable being the &lt;a href=&#34;https://riscv.org/&#34;&gt;RISC-V&lt;/a&gt; processor, which is a great thing as the low power processor market has practically become a monopoly of the &lt;a href=&#34;https://www.arm.com&#34;&gt;ARM&lt;/a&gt; processor. This post is a collection on various resources which are open source and free to use.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Garage Sale</title>
       <link>https://www.rajwadkar.us/contact/garagesale/</link>
