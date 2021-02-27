@@ -1,64 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.rajwadkar.net/contact/garagesale/</loc>
     <lastmod>2019-01-14T00:00:00+05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.rajwadkar.net/</loc>
     <lastmod>2019-01-14T00:00:00+05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.rajwadkar.net/categories/blog/</loc>
     <lastmod>2018-09-01T00:00:00+05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.rajwadkar.net/categories/</loc>
     <lastmod>2018-09-01T00:00:00+05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.rajwadkar.net/post/</loc>
     <lastmod>2018-09-01T00:00:00+05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.rajwadkar.net/post/vagabond/</loc>
     <lastmod>2018-09-01T00:00:00+05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.rajwadkar.net/contact/schoolpool/</loc>
     <lastmod>2018-08-22T00:00:00+05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.rajwadkar.net/post/ducati/</loc>
     <lastmod>2017-05-09T00:00:00+05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.rajwadkar.net/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.rajwadkar.net/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.rajwadkar.net/post/vlsiinfo/</loc>
     <lastmod>2016-09-01T00:00:00+05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.rajwadkar.net/tags/</loc>
   </url>
-  
 </urlset>
