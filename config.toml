@@ -43,14 +43,9 @@ paginate = 5 #frontpage pagination
   weight = 1
 
   [[menu.main]]
-  name = "Resume"
-  url = "about/resume.pdf"
-  weight = 2
-
-  [[menu.main]]
   name = "Contact Me"
   url = "contact/"
-  weight = 3
+  weight = 10
 
   [params.social]
   facebook       = "https://www.facebook.com/mayuresh.rajwadkar"
