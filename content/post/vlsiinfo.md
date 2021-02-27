@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "2016-09-01T00:00:00+05:00"
 title = "VLSI Design"
-categories = [ "blog" ]
+categories = [ "vlsi" ]
 weight = 0
 +++
 

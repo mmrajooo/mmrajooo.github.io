@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "2020-12-01T00:00:00+05:00"
 title = "Open Source Designs and EDA"
-categories = [ "blog" ]
+categories = [ "vlsi" ]
 weight = 0
 +++
 
