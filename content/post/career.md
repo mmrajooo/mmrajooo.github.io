@@ -18,7 +18,7 @@ I am proud to be an alumnus of [UC Berkeley Haas School of Business](https://haa
 
 I began my education in Mumbai at schools operated by the [Indian Education Society](http://www.ies.edu), specifically [Padmakar Dhamdhere English Medium Primary School](http://iespdemp.in/) and [V. N. Sule Guruji English Medium School](http://www.iesvns.com/) (also known as King George or Raja Shivaji Vidyasankul). All my schooling was conducted in English—what we call English-medium education in India, similar to English immersion programs in the United States. 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1fUSlDtcKOgXqMG40brW6iVVH0GE&hl=en" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1pQRRUCCbtUfYRASHmffbAMZ7l2gPtlY&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Undergraduate Studies in Physics
 
