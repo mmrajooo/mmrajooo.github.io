@@ -14,7 +14,6 @@
 
 <h1 class="screen-reader-text">Posts</h1>
 <div id="loop-container" class="loop-container">
-<div id="boo" class="debug"> Boo </div>
   {{ range $index, $element := (where .Data.Pages "Section" "post") }}
 	{{ if and (isset .Params "image") .Params.image }}
 	{{ if eq (mod $index 2) 0 }}
@@ -30,8 +29,6 @@
 
 				{{ if and (isset .Params "image") .Params.image }}
 				<a class="featured-image-link" href="{{ .Permalink }}"><div class='featured-image lazy lazy-bg-image'   data-background="{{ .Params.image | absURL }}"></div></a>
-<div id="hoo" class="debug"> Hoo </div>
-
 				{{ end }}
 
 				<div class="excerpt-container">
