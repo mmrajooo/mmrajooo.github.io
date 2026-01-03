@@ -1,8 +1,8 @@
 +++
 image = "img/mlrco.jpg"
 showonlyimage = true
-draft = true
-date = "2019-01-01T00:00:00+05:00"
+draft = false
+date = "2026-01-03T00:00:00-05:00"
 title = "The Academic Career"
 categories = [ "blog" ]
 weight = 0
