@@ -1,4 +1,4 @@
-#!/bin/bash -xv
+#!/bin/bash
 
 # This script allows you to easily and quickly generate and deploy your website
 # using Hugo to your personal GitHub Pages repository. This script requires a
@@ -46,7 +46,7 @@ fi
 
 
 msg "Building the website"
-hugo -v
+hugo --minify
 [ $? -ne 0 ]  && exit 
 
 #[ -r CNAME ] && cp -rfp CNAME public
