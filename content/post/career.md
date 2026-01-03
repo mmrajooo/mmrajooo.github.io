@@ -1,5 +1,5 @@
 +++
-image = "img/mlrco.png"
+image = "img/mlrco.jpg"
 showonlyimage = true
 draft = true
 date = "2019-01-01T00:00:00+05:00"
