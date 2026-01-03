@@ -1,7 +1,7 @@
 <footer id="site-footer" class="site-footer" role="contentinfo">
 	<h1>
     {{ with .Site.Title }}
-    <a href=""> {{ . }} </a>
+    <a href="{{ "/" | absURL }}"> {{ . }} </a>
     {{ end }}
 	</h1>
 

@@ -64,10 +64,10 @@ preserveTaxonomyNames = true
 
  [params.writers]
     [params.writers."Mayuresh Rajwadkar"]
-    link = "https://ww.rajwadkar.us/"
+    link = "https://www.rajwadkar.us/"
     email = "mmr-us@rajwadkar.us"
     bio = [
-      "Mayuresh is a blah blah "
+      "Mayuresh is a semiconductor and IT professional with an MBA in entrepreneurship from Babson College, bringing over twenty years of experience in design, development, and open source technologies."
     ]
 
 [markup.goldmark]
