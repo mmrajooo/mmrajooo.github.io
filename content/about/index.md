@@ -1,21 +1,16 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = "2026-01-03T15:30:00-05:00"
 title = "About me"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+## About me
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+![This is me](/img/hs-mmr-b3-2.jpg)
 
-![This is me][1]
+I spend most of my time working with early-stage companies and ambitious teams who are trying to turn sharp ideas into durable businesses. My interests span health, education, transportation, and infrastructure, but I care less about a specific sector and more about whether there is a real problem, a thoughtful model, and a team that can execute. Over the years, this has meant countless conversations about go‑to‑market, pricing, fundraising, and what it actually takes to build something that lasts.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+My background sits at the intersection of semiconductor design and cloud infrastructure, where complex technical systems meet real-world constraints around time, cost, and scale. I specialize in high‑performance computing environments tuned for demanding engineering workloads, and have helped organizations bridge traditional on‑premise methodologies with cloud‑native architectures. That work has given me a front-row seat to how technology, capital, and execution interact inside high‑stakes projects.
 
-#### Education
+On the engineering side, I have deep experience with ASIC design flows, physical design, and the infrastructure that supports modern semiconductor development. I have architected automation systems that streamline chip design and qualification, partnering closely with both infrastructure and design teams to reduce bottlenecks and improve reliability. That combination of technical depth and business focus shapes how I evaluate opportunities, which teams I choose to work with, and how I help them make better strategic decisions.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
-
-[1]: /img/about.jpg
+I split my time across hubs like Boston, Austin, and the SF Bay Area, where I enjoy connecting with founders, operators, and builders at different stages of the journey. Whether the conversation starts with architecture diagrams or financial models, the goal is the same: to understand where the leverage is, and how to use it well.
