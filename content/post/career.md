@@ -8,73 +8,43 @@ categories = [ "blog" ]
 weight = 0
 +++
 
-iTest 
 
-I believe I am very fortunate to have graduated with three Masters Degree's. Looking back
-as to how crazy and naughty I was in school, it would certainly give a heart attack to most
-of my teachers in Middle and High school. The common theme in all my academics has been
-that I almost all the time persued the subjects of my personal interest at those times.
-The second aspect as been that I have been directed well in my early academic career and was 
-able to use that technique in my later career too.
+I've been fortunate to earn multiple graduate degrees across different disciplines. Looking back at my journey—from being the troublemaker who would have given my middle and high school teachers heart attacks, to becoming a lifelong learner—the common thread has been pursuing subjects that genuinely fascinated me. Early in my career, I received excellent mentorship that taught me how to navigate academic environments, a skill I've applied throughout my professional life.
 
+I am proud to be an alumnus of [UC Berkeley Haas School of Business](https://haas.berkeley.edu/), [F.W. Olin Graduate School of Business at Babson College](https://www.babson.edu/academics/graduate-school/), [Harvard Business School Online](https://online.hbs.edu/), [Indian Institute of Technology Bombay](http://www.iitb.ac.in/), and [The University of Mumbai](http://www.mu.ac.in/). 
 
 <!--more-->
-My initial schooling was done in the schools of the [Indian Education
-Society](http://www.ies.edu),specifically the schools which are today called as
-[Padmakar Dhamdhere English Medium Primary School](http://iespdemp.in/) and the [V. N.
-Sule Guruji English Medium School](http://www.iesvns.com/) alternatively also
-reffered to as King George OR Raja Shivaji Vidyasankul. I have always been in
-English Medium or English Immersion School as they call it here state side. 
+## Early Education in Mumbai
+
+I began my education in Mumbai at schools operated by the [Indian Education Society](http://www.ies.edu), specifically [Padmakar Dhamdhere English Medium Primary School](http://iespdemp.in/) and [V. N. Sule Guruji English Medium School](http://www.iesvns.com/) (also known as King George or Raja Shivaji Vidyasankul). All my schooling was conducted in English—what we call English-medium education in India, similar to English immersion programs in the United States. 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1fUSlDtcKOgXqMG40brW6iVVH0GE&hl=en" width="640" height="480"></iframe>
 
-I later joined the [Elphinstone College](https://www.elphinstone.ac.in/) to complete my 
-high-school and the initial two years of under graduate school, followed by graduation in 
-Physics from [Mithibai College](http://www.mithibai.ac.in/Department%20of%20Physics/M__471). 
-both affilated to the [University of Mumbai](http://www.mu.ac.in/)
+## Undergraduate Studies in Physics
 
-A major turning point in my career was the *Lectures in Graduate Physics* which
-were conducted by the [Homi Bhabha Center for Science
-Education](http://www.hbcse.tifr.res.in/). These lectures laid the basic
-foundation of solving problems in Physics and Mathematics and put me on a sound foundation  to
-understand Relativity, Quantum Mechanics and General Relativity. [PadmaShri
-Prof Arvind Kumar](http://www.hbcse.tifr.res.in/people/visiting-scientists/arvind-kumar)
-was a key mentor and influencer during the time along with [Prof H. C.
-Pradhan](http://www.hbcse.tifr.res.in/people/former-members/hcpradhan) and the
-other faculty at the center. The learnings at the center enabled me to qualify
-the IIT Bombay Physics Entrance. 
+I continued my education at [Elphinstone College](https://www.elphinstone.ac.in/), where I completed high school and the first two years of undergraduate studies. I then earned my Bachelor's degree in Physics from [Mithibai College](http://www.mithibai.ac.in/Department%20of%20Physics/M__471). Both colleges are affiliated with the [University of Mumbai](http://www.mu.ac.in/).
 
-I joined the Masters program in Physics in IIT Bombay in 1994. I high points in
-the course was my summer internship at the [Society for Applied Microwave
-Electronics Engineering and Research/ SAMEER](https://www.sameer.gov.in/) where
-I assisted fellow scientist [Prakash
-Suratkar](https://www.linkedin.com/in/prakash-suratkar-45237a7/) in his work on
-infrared lasers.  This internship also introduced me to the condensed matter
-physics group at the [Tata Institute of Fundamental
-Research](http://www.tifr.res.in/~dcmpms/index.php), then led by [Prof B. M.
-Arora](https://www.ee.iitb.ac.in/wiki/faculty/bmarora) Some of the fellow
-students of the IITB Engineering Physics program were also key in my later
-career notably [Mayur
-Joshi](https://www.linkedin.com/in/mayur-vinod-joshi-9996182) and [Ashish
-Thapliyal](https://www.linkedin.com/in/ashishthapliyal/)
-The comprehensive mutual support in the "M.Sc. Physics Team" enabled almost all of us to crack the GATE 1996 exam,
-with very high percentile scores, which enabled all of us into the applied sciences. 
-I was able to secure a seat in the IIT Bombay Electrical Engineering, IIT Madras Material Science and also a PhD seat in the 
-Experimental Condensed Matter Physics group in TIFR. 
-I worked on developing a experimental setup for measuring Photoconductivty  of Diamond Thin Films developed in the department laboratory by
-then student [Tarun Sharda](https://www.linkedin.com/in/tarunsharda/).
+## The Turning Point: Graduate Physics Lectures
 
-I joined the Masters program in in Microelectronics/Electrical Engineering at IIT Bombay in 1996. 
-Besides the usual coursework, there were no major high points in the program. I worked on a project to model
-the endurance of flash memory devices, which was initially sponsored by [Intel](https://www.intel.com/), 
-but later ran out of support. I graduated in early 1998.
+A pivotal moment came through the *Lectures in Graduate Physics* program at the [Homi Bhabha Centre for Science Education](http://www.hbcse.tifr.res.in/). These lectures provided rigorous training in problem-solving techniques for physics and mathematics, establishing a solid foundation for understanding relativity, quantum mechanics, and general relativity. [Padma Shri Prof. Arvind Kumar](http://www.hbcse.tifr.res.in/people/visiting-scientists/arvind-kumar) was a key mentor during this period, along with [Prof. H. C. Pradhan](http://www.hbcse.tifr.res.in/people/former-members/hcpradhan) and other faculty members. This training proved instrumental in helping me qualify for the highly competitive IIT Bombay Physics entrance examination. 
 
-I landed in a job in a Semiconductor Firm called *Duet Technologies*, which later was acquired by Motorola and later Freescale Semiconductor. 
-Over the 20 or so years since graduating I evolved into a Digital Design Automation specialist with almost no academic digressions in terms
-of science and technology in the time. 
+## Master's in Physics at IIT Bombay (1994-1996)
 
-My recent academic experience evolved as I saw the semiconductor industry commoditizing and my intent on re-inventing myself. I was a little bit 
-uncertain how to shape my career but I started looking into MBA programs since 2007, when I was a a McCombs 
+I enrolled in the Master's program in Physics at [IIT Bombay](http://www.iitb.ac.in/) in 1994. A highlight of the program was my summer internship at the [Society for Applied Microwave Electronics Engineering and Research (SAMEER)](https://www.sameer.gov.in/), where I assisted scientist [Prakash Suratkar](https://www.linkedin.com/in/prakash-suratkar-45237a7/) in his research on infrared lasers. This internship also connected me with the condensed matter physics group at the [Tata Institute of Fundamental Research](http://www.tifr.res.in/~dcmpms/index.php), then led by [Prof. B. M. Arora](https://www.ee.iitb.ac.in/wiki/faculty/bmarora).
+
+The collaborative environment among my cohort—particularly with fellow students [Mayur Joshi](https://www.linkedin.com/in/mayur-vinod-joshi-9996182) and [Ashish Thapliyal](https://www.linkedin.com/in/ashishthapliyal/)—proved invaluable. Our "M.Sc. Physics Team" supported each other through rigorous preparation, and nearly all of us achieved high percentile scores on the GATE 1996 exam, opening doors to applied sciences programs. I was accepted into IIT Bombay's Electrical Engineering program, IIT Madras's Materials Science program, and also received a PhD position in the Experimental Condensed Matter Physics group at TIFR. During this period, I developed an experimental setup for measuring photoconductivity of diamond thin films, working alongside doctoral student [Tarun Sharda](https://www.linkedin.com/in/tarunsharda/).
+
+## Master's in Microelectronics/Electrical Engineering at IIT Bombay (1996-1998)
+
+In 1996, I enrolled in the Master's program in Microelectronics/Electrical Engineering at [IIT Bombay](http://www.iitb.ac.in/). Beyond the standard coursework, I worked on a research project modeling the endurance of flash memory devices. The project was initially sponsored by [Intel](https://www.intel.com/) but later lost funding. I completed the program and graduated in early 1998.
+
+## Early Career in Semiconductors
+
+After graduation, I joined a semiconductor firm called *Duet Technologies*, which was subsequently acquired by Motorola and later became part of Freescale Semiconductor. Over the next two decades, I developed deep expertise in Digital Design Automation, focusing primarily on industry work rather than continuing formal academic studies in science and technology during this period. 
+
+## Return to Academia: Business Education
+
+As I watched the semiconductor industry become increasingly commoditized, I recognized the need to reinvent myself professionally. While uncertain about the exact direction, I began exploring MBA programs around 2007. My journey started when I was 
 
 
  
