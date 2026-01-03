@@ -1,61 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Rambles of a Technologist in Business</title>
-    <link>https://www.rajwadkar.us/post/</link>
-    <description>Recent content in Posts on Rambles of a Technologist in Business</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0500</lastBuildDate><atom:link href="https://www.rajwadkar.us/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Open Source Designs and EDA</title>
-      <link>https://www.rajwadkar.us/post/opensourceeda/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0500</pubDate>
-      
-      <guid>https://www.rajwadkar.us/post/opensourceeda/</guid>
-      <description>&lt;p&gt;A majority of the IC designs are proprietary and confidential and are owned by the major players in the market. In the  recent years there has been resurgence in Open Source IP, the most notable being the &lt;a href=&#34;https://riscv.org/&#34;&gt;RISC-V&lt;/a&gt; processor, which is a great thing as the low power processor market has practically become a monopoly of the &lt;a href=&#34;https://www.arm.com&#34;&gt;ARM&lt;/a&gt; processor. This post is a collection on various resources which are open source and free to use.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Vagabond</title>
-      <link>https://www.rajwadkar.us/post/vagabond/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0500</pubDate>
-      
-      <guid>https://www.rajwadkar.us/post/vagabond/</guid>
-      <description>&lt;p&gt;I had studied this poem by R. L. Stevenson when I was in high school, it was my favorite and is a great source of
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rambles of a Technologist in Business</title><link>https://www.rajwadkar.us/post/</link><description>Recent content in Posts on Rambles of a Technologist in Business</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0500</lastBuildDate><atom:link href="https://www.rajwadkar.us/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Open Source Designs and EDA</title><link>https://www.rajwadkar.us/post/opensourceeda/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0500</pubDate><guid>https://www.rajwadkar.us/post/opensourceeda/</guid><description>&lt;p&gt;A majority of the IC designs are proprietary and confidential and are owned by the major players in the market. In the recent years there has been resurgence in Open Source IP, the most notable being the &lt;a href="https://riscv.org/"&gt;RISC-V&lt;/a&gt; processor, which is a great thing as the low power processor market has practically become a monopoly of the &lt;a href="https://www.arm.com"&gt;ARM&lt;/a&gt; processor. This post is a collection on various resources which are open source and free to use.&lt;/p&gt;</description></item><item><title>The Vagabond</title><link>https://www.rajwadkar.us/post/vagabond/</link><pubDate>Sat, 01 Sep 2018 00:00:00 +0500</pubDate><guid>https://www.rajwadkar.us/post/vagabond/</guid><description>&lt;p&gt;I had studied this poem by R. L. Stevenson when I was in high school, it was my favorite and is a great source of
 inspiration.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.poetryloverspage.com/poets/stevenson/vagabond.html&#34;&gt;The Vagabond @Poetry Lovers Page&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Robert_Louis_Stevenson&#34;&gt;Robert Lewis Stevenson @wikipedia&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ducati : Giovanni Gavetti</title>
-      <link>https://www.rajwadkar.us/post/ducati/</link>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0500</pubDate>
-      
-      <guid>https://www.rajwadkar.us/post/ducati/</guid>
-      <description>&lt;p&gt;The Ducati Case Study&lt;sup&gt;1&lt;/sup&gt; by &lt;a href=&#34;https://store.hbr.org/search.php?search_query=Giovanni%20Gavetti&amp;amp;section=product&#34;&gt;Giovanni
+&lt;p&gt;&lt;a href="https://www.poetryloverspage.com/poets/stevenson/vagabond.html"&gt;The Vagabond @Poetry Lovers Page&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"&gt;Robert Lewis Stevenson @wikipedia&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Ducati : Giovanni Gavetti</title><link>https://www.rajwadkar.us/post/ducati/</link><pubDate>Tue, 09 May 2017 00:00:00 +0500</pubDate><guid>https://www.rajwadkar.us/post/ducati/</guid><description>&lt;p&gt;The Ducati Case Study&lt;sup&gt;1&lt;/sup&gt; by &lt;a href="https://store.hbr.org/search.php?search_query=Giovanni%20Gavetti&amp;amp;section=product"&gt;Giovanni
 Gavetti&lt;/a&gt;,
 focuses on the turnaround and strategic repositioning of Ducati, an Italian
 maker of high-end sport motorcycles, and describes the current concerns with
 the growth prospects of the company. Federico Minoli, the CEO and strategic
 mind behind the turnaround, knew that Ducati could not grow indefinitely in its
 current niche. One alternative was to attack Harley Davidson&amp;rsquo;s niche with a
-Ducati interpretation of a cruiser.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>VLSI Design</title>
-      <link>https://www.rajwadkar.us/post/vlsiinfo/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0500</pubDate>
-      
-      <guid>https://www.rajwadkar.us/post/vlsiinfo/</guid>
-      <description>&lt;p&gt;In the good old days of the last century and early this century I used to run a small blog
+Ducati interpretation of a cruiser.&lt;/p&gt;</description></item><item><title>VLSI Design</title><link>https://www.rajwadkar.us/post/vlsiinfo/</link><pubDate>Thu, 01 Sep 2016 00:00:00 +0500</pubDate><guid>https://www.rajwadkar.us/post/vlsiinfo/</guid><description>&lt;p&gt;In the good old days of the last century and early this century I used to run a small blog
 or a resource page about VLSI (Very Large Scale Integrated) circuit design and resources.
 The domain was pretty new in the time and there were very little resources available at the time.
 The technology is developing fast, however the industry is commoditized and disaapearing to the east.
-The &lt;a href=&#34;http://mayursvlsiinfopage.blogspot.com/&#34;&gt;blog&lt;/a&gt;  is still hosted on blogspot but I have stopped maintaining it. This post summarizes some of its relevant content which may still be useful for folks.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+The &lt;a href="http://mayursvlsiinfopage.blogspot.com/"&gt;blog&lt;/a&gt; is still hosted on blogspot but I have stopped maintaining it. This post summarizes some of its relevant content which may still be useful for folks.&lt;/p&gt;</description></item></channel></rss>
