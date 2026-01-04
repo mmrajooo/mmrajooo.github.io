@@ -18,7 +18,7 @@ I am proud to be an alumnus of [UC Berkeley Haas School of Business](https://haa
 
 I began my education in Mumbai at schools operated by the [Indian Education Society](http://www.ies.edu), specifically [Padmakar Dhamdhere English Medium Primary School](http://iespdemp.in/) and [V. N. Sule Guruji English Medium School](http://www.iesvns.com/) (also known as King George or Raja Shivaji Vidyasankul). All my schooling was conducted in English—what we call English-medium education in India, similar to English immersion programs in the United States. 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1pQRRUCCbtUfYRASHmffbAMZ7l2gPtlY&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1pQRRUCCbtUfYRASHmffbAMZ7l2gPtlY&ehbc=2E312F&z=4" width="640" height="480"></iframe>
 
 ## Undergraduate Studies in Physics
 
@@ -26,7 +26,7 @@ I continued my education at [Elphinstone College](https://www.elphinstone.ac.in/
 
 ## The Turning Point: Graduate Physics Lectures
 
-A pivotal moment came through the *Lectures in Graduate Physics* program at the [Homi Bhabha Centre for Science Education](http://www.hbcse.tifr.res.in/). These lectures provided rigorous training in problem-solving techniques for physics and mathematics, establishing a solid foundation for understanding relativity, quantum mechanics, and general relativity. [Padma Shri Prof. Arvind Kumar](http://www.hbcse.tifr.res.in/people/visiting-scientists/arvind-kumar) was a key mentor during this period, along with [Prof. H. C. Pradhan](http://www.hbcse.tifr.res.in/people/former-members/hcpradhan) and other faculty members. This training proved instrumental in helping me qualify for the highly competitive IIT Bombay Physics entrance examination. 
+A pivotal moment came through the *Lectures in Graduate Physics* program at the [Homi Bhabha Centre for Science Education](http://www.hbcse.tifr.res.in/). These lectures provided rigorous training in problem-solving techniques for physics and mathematics, establishing a solid foundation for understanding relativity, quantum mechanics, and general relativity. [Padma Shri Prof. Arvind Kumar](https://www.hbcse.tifr.res.in/people/former-members/prof-arvind-kumar) was a key mentor during this period, along with [Prof. H. C. Pradhan](http://www.hbcse.tifr.res.in/people/former-members/hcpradhan) and other faculty members. This training proved instrumental in helping me qualify for the highly competitive IIT Bombay Physics entrance examination. 
 
 ## Master's in Physics at IIT Bombay (1994-1996)
 
