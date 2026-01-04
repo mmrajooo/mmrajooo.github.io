@@ -23,7 +23,7 @@ I began my education in Mumbai at schools operated by the [Indian Education Soci
 
 #### Undergraduate Studies in Physics
 
-I continued my education at [Elphinstone College](https://www.elphinstone.ac.in/), where I completed high school and the first two years of undergraduate studies. I then earned my Bachelor's degree in Physics from [Mithibai College](http://www.mithibai.ac.in/Department%20of%20Physics/M__471). Both colleges are affiliated with the [University of Mumbai](http://www.mu.ac.in/).
+I continued my education at [Elphinstone College](https://elphinstone.ac.in/), where I completed high school and the first two years of undergraduate studies. I then earned my Bachelor's degree in Physics from [Mithibai College](https://mithibai.ac.in/science-department/physics/). Both colleges are affiliated with the [University of Mumbai](http://www.mu.ac.in/).
 
 #### The Turning Point: Graduate Physics Lectures
 
