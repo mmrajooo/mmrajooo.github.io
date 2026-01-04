@@ -14,14 +14,19 @@
 }
 
 /* Custom link styling for blog content */
-.box a {
-  text-decoration: none;
+.box a,
+.box a:link,
+.box a:visited {
+  text-decoration: none !important;
   background: linear-gradient(to bottom, transparent 85%, rgba(100, 150, 200, 0.2) 85%);
   background-size: 100% 100%;
   transition: background-size 0.3s ease, background-color 0.3s ease;
 }
 
-.box a:hover {
+.box a:hover,
+.box a:active,
+.box a:focus {
+  text-decoration: none !important;
   background: linear-gradient(to bottom, transparent 70%, rgba(100, 150, 200, 0.4) 70%);
   background-size: 100% 100%;
 }
