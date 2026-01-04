@@ -41,7 +41,11 @@ In 1996, I enrolled in the Master's program in Microelectronics/Electrical Engin
 
 #### Early Career in Semiconductors
 
-After graduation, I joined a semiconductor firm called *Duet Technologies*, which was subsequently acquired by Motorola and later became part of Freescale Semiconductor. Over the next two decades, I developed deep expertise in Digital Design Automation, focusing primarily on industry work rather than continuing formal academic studies in science and technology during this period. 
+After completing my graduate studies, I joined Duet Technologies and began my career in the semiconductor industry. Over the next two decades, I worked at Philips, Chiplogic (which was acquired by Analog Devices), and then across three Analog Devices design centers in California, Texas, and Massachusetts. During this period, I developed deep expertise in physical design and foundry CAD, along with substantial work in architecting digital electronic design‑automation flows, high‑performance computing infrastructure, and Linux systems.
+​
+
+As the global economy moved through a major downturn, the semiconductor industry underwent significant consolidation. The design‑automation niche that had originally attracted me became increasingly dominated by a few large EDA vendors—Synopsys, Cadence, and Mentor (later part of Siemens)—while a growing share of design work migrated outside the United States. As my technical specialization became more commoditized and geographically dispersed, I made a deliberate decision to re‑engineer my career and return to school for formal business education.
+​
 
 #### Return to Academia: Business Education
 
