@@ -14,6 +14,9 @@
 }
 
 /* Custom link styling for blog content */
+article a,
+article a:link,
+article a:visited,
 .box a,
 .box a:link,
 .box a:visited {
@@ -23,6 +26,9 @@
   transition: background-size 0.3s ease, background-color 0.3s ease;
 }
 
+article a:hover,
+article a:active,
+article a:focus,
 .box a:hover,
 .box a:active,
 .box a:focus {
