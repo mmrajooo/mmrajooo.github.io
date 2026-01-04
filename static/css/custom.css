@@ -17,10 +17,26 @@
 article a,
 article a:link,
 article a:visited,
+article a:hover,
+article a:active,
+article a:focus,
+.box a,
+.box a:link,
+.box a:visited,
+.box a:hover,
+.box a:active,
+.box a:focus {
+  text-decoration: none !important;
+  -webkit-text-decoration: none !important;
+  text-decoration-line: none !important;
+}
+
+article a,
+article a:link,
+article a:visited,
 .box a,
 .box a:link,
 .box a:visited {
-  text-decoration: none !important;
   background-color: rgba(100, 150, 200, 0.15);
   padding: 2px 4px;
   border-radius: 3px;
@@ -33,6 +49,5 @@ article a:focus,
 .box a:hover,
 .box a:active,
 .box a:focus {
-  text-decoration: none !important;
   background-color: rgba(100, 150, 200, 0.3);
 }
