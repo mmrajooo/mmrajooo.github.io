@@ -27,7 +27,7 @@ The analysis below tries to answer the following questions.
 - Which would you recommend? (I expect you to back your recommendations with hard data)
 
 
-## Ducati Case Analysis
+#### Ducati Case Analysis
 
 **Introduction**
 

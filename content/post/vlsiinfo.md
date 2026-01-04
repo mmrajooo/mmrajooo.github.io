@@ -17,7 +17,7 @@ The [blog](http://mayursvlsiinfopage.blogspot.com/)  is still hosted on blogspot
 <!--more-->
 
 
-## Free VLSI Design Tools
+#### Free VLSI Design Tools
 * [NanoHub](http://nanohub.org/)
 * [IBIBLIO List of tools for Electronic Design](http://www.ibiblio.org/pub/linux/apps/circuits/)
 * [Stanford University TCAD tools](http://www-tcad.stanford.edu/tcad/programs.html)
@@ -27,7 +27,7 @@ The [blog](http://mayursvlsiinfopage.blogspot.com/)  is still hosted on blogspot
 * [GNU Electric](http://www.gnu.org/software/electric/)
 * [VLSI Academy List](http://www.vlsiacademy.org/open-source-cad-tools.html)
 
-## Verilog Resources
+#### Verilog Resources
 * [Rajesh Bawankule's Verilog Center](http://www.angelfire.com/in/rajesh52/verilog.html)
 * [Project VeriPage](https://www.project-veripage.com/index.php)
 * [Veripool: Public domain verilog resources](https://www.veripool.org/)
@@ -39,12 +39,12 @@ The [blog](http://mayursvlsiinfopage.blogspot.com/)  is still hosted on blogspot
 [WN](http://vlsicad.eecs.umich.edu/BK/Slots/cache/bawankule.com/verilogfaq/whats_new.html)
 [LI](http://vlsicad.eecs.umich.edu/BK/Slots/cache/bawankule.com/verilogfaq/links.html)
 
-## VHDL Resources
+#### VHDL Resources
 - [VASG](http://www.eda-twiki.org/vasg/)
 - [VHDL Tutorials ](https://hackr.io/tutorials/learn-vhdl)
 
 
-## Books
+#### Books
 The Books I have usually referenced
 |             |             |              |
 | :----:      | :----:      |  :----:      |
@@ -55,7 +55,7 @@ The Books I have usually referenced
 |             |             |              |
 
 
-## Links
+#### Links
 * [Rajesh Bawankule's Blog](http://rajesh52.blogspot.com/)
 * [ICCAD](https://iccad.com/)
 * [ISQED](https://www.isqed.org/)

@@ -12,19 +12,19 @@ A majority of the IC designs are proprietary and confidential and are owned by t
 
 <!--more-->
 
-## Open Source Designs
+#### Open Source Designs
 * [RISC-V](https://www.riscv.org)
 * [Open HW Group](https://www.openhwgroup.org/)
 * [FOSSI Foundation](https://www.fossi-foundation.org/)
 * [FreeCores](http://freecores.github.io/)
 
-## Open Source EDA Tools & Resources
+#### Open Source EDA Tools & Resources
 * [MakerChip](https://www.makerchip.com/)
 * [Skywater PDK](https://skywater-pdk.readthedocs.io/en/latest/)
 * [Google | Efabless | Skywater Shuttle Program](https://efabless.com/open_shuttle_program) 
 * [The OpenRoad Project](https://theopenroadproject.org/)
 
-## Books
+#### Books
 The Books 
 |             |             |              |
 | :----:      | :----:      |  :----:      |
